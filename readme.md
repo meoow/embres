@@ -11,6 +11,6 @@ go get github.com/meoow/embres
 
 ### Usage
 ```sh
-./embed [-i] file1.html [file2.html ...]
+./embres [-i] file1.html [file2.html ...]
 # use -i changes files inplace, otherwise will write to stdout.
 ```
